@@ -1,0 +1,11 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Editor/backup files
+*.swp
+*.swo
+*~
+
+# tmux runtime/session state (e.g. from resurrect/continuum, if enabled locally)
+.tmux/resurrect/
