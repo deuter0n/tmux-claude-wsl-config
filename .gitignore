@@ -1,11 +1,9 @@
-# OS cruft
+# OS
 .DS_Store
 Thumbs.db
 
-# Editor/backup files
+# Editors
 *.swp
 *.swo
-*~
-
-# tmux runtime/session state (e.g. from resurrect/continuum, if enabled locally)
-.tmux/resurrect/
+.vscode/
+.idea/
